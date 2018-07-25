@@ -27,5 +27,7 @@ end
 
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
-  return 
+  return STUDENT_NAMES[0]
+  return STUDENT_NAMES[1]
+  return STUDENT_NAMES[2]
 end
