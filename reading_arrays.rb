@@ -31,3 +31,9 @@ def first_second_and_third_students
   return STUDENT_NAMES[1]
   return STUDENT_NAMES[2]
 end
+first_student_by_index
+fourth_student_by_index
+last_student_by_index
+first_student_by_method
+last_student_by_method
+first_second_and_third_students
